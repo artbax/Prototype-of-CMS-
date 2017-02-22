@@ -1,9 +1,1 @@
-w bazie sa artykuly, kategorie, tagi, uzytkownicy, autorzy
-strona startowa:
-  artukuly
-  logowanie
-   - kolekcja wykupionych artykulow
-   - po zalogowaniu pelna wersja artykuly lub mozliwosc zakupu (access.view.php)
-  kategorie
-  autorzy
-  
+CMS system for adding articles. Frontend made with OO PHP with use of MVC.
